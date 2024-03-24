@@ -1,6 +1,6 @@
 # TypeScript Notes App
 
-A simple notes app made using React(TypeScript) and Bootstrap. Uses tag based filtering and local storage.
+A simple notes app made using React(TypeScript) and Bootstrap. Uses tag based filtering and local storage. Check out the working website https://vayunekbote02.github.io/typescript_notes_app/
 
 ## Getting Started
 
